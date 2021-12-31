@@ -1,3 +1,12 @@
+# tmp
+
+# 参考url
+
++ https://github.com/knknkn1162/kyopro_educational_90
++ https://qiita.com/e869120/items/1b2a5f0f07fd927e44e9 .. 記事
++ https://atcoder.jp/contests/typical90 .. 常設ジャッジ@atcoder
++ https://www.dropbox.com/sh/nx3tnilzqz7df8a/AAC-L790bxKBVkmB6pdMUgk4a/typical90?dl=0&subfolder_nav_tracking=1 .. テストケース一覧
+
 # 競プロ典型 90 問
 日曜を除く**毎朝 7:40** に競プロやアルゴリズムの教育的な問題を Twitter（[@e869120](https://twitter.com/e869120)）に投稿する企画です。
 
